@@ -1,0 +1,124 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.all-columns{
+   float: left;
+   width: 25%;
+   padding: 10px;
+   min-height: 12px; 
+}
+.all-row{
+    content: "";
+    display: table;
+    clear: both;
+}
+h5{
+    padding-left: 1rem;
+}
+.txt{
+    color: orangered;
+    padding-top: 0.7rem;
+    padding-left: 1rem;
+}
+.txt-5{
+    margin-left: 2rem;
+}
+.img-home{
+    margin-left: 1.4rem;
+    margin-top: 1rem;
+    width: 260px;
+    height: 175px;
+    border: 5px solid white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+}
+.small-txt{
+    text-align: center;
+    text-align: justify;
+    padding-left: 2rem;
+    padding-top: 10px;
+}
+.se-rows{
+    content: "";
+    display: table;
+    clear: both;
+}
+.liko-1{
+    margin-left: 3rem;
+}
+.se-col{
+    float: left;
+    width: 25%;
+    padding: 10px;
+    min-height: 12px;
+}
+.fi-col{
+    float: left;
+    width: 75%;
+    padding: 10px;
+    min-height: 12px; 
+}
+.lg-big{
+    background-color: gray;
+    width: 910px;
+    height: 0.7rem;
+    margin-left: 1rem;
+}
+.sixe{
+    padding-left: 1rem;
+}
+.lg-small{
+    background-color: rgb(206, 206, 206);
+    width: 910px;
+    height: 0.2rem;
+    margin-left: 1rem;
+}
+.setex{
+    background-color: orangered;
+    color: white;
+    text-align: center;
+}
+.minec{
+    margin-left: 1.4rem;
+    margin-top: 1rem;
+    width: 200px;
+    height: 125px;
+    border: 5px solid white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+}
+.img-f{
+    float: left;
+    margin: 10px 15px 15px 0px;
+}
+.txt-js{
+    text-align: center;
+    text-align: justify;
+    margin-left: 1rem;
+}
+.footer{
+    width: 100%;
+    content: "";
+    display: table;
+    clear: both;
+}
+.socail-media{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    min-height: 12px; 
+}
+.contact{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    min-height: 12px; 
+}
+.information{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    min-height: 12px; 
+}
+
